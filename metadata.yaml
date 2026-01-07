@@ -9,4 +9,5 @@ versions:
     changeNotes: Added categories in .tpl file. 
   - sha: a8b7bac056d5e9de28c8dc54201b34049fcc4ee8
     changeNotes: Updated LICENSE.
-    
+  - sha: 37896617bb533e6f6d5cb1922c0ff8c5456decaf
+    changeNotes: Rename to template.tpl.  
