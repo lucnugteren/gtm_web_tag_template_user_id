@@ -1,0 +1,7 @@
+homepage: 'https://lucnugteren.com/'
+documentation: 'https://github.com/lucnugteren/gtm_web_tag_template_user_id'
+versions:
+  - sha: 3269e0e8885b3cdb6168f68ad014c0bda6d1ad4a
+    changeNotes: Initial release.
+  - sha: 7be10b0f30d58200e013158a79a38bb9379b3350
+    changeNotes: Template file added.
