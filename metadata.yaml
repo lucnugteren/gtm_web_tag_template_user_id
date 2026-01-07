@@ -5,3 +5,5 @@ versions:
     changeNotes: Initial release.
   - sha: 7be10b0f30d58200e013158a79a38bb9379b3350
     changeNotes: Template file added.
+  - sha: 9fad9af66376dae14d8ed96e7d658a04ccb0ba06
+    changeNotes: Added categories in .tpl file. 
