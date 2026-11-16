@@ -16,10 +16,8 @@ ___INFO___
   "displayName": "User ID",
   "categories": [
     "ADVERTISING",
-    "ANALYTICS",
     "CONVERSIONS",
-    "MARKETING",
-    "REMARKETING"
+    "ANALYTICS"
   ],
   "brand": {
     "id": "github.com/lucnugteren/",
