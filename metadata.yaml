@@ -1,5 +1,7 @@
 homepage: 'https://lucnugteren.com/'
 documentation: 'https://github.com/lucnugteren/gtm_web_tag_template_user_id'
 versions:
+  - sha: 2f9491485260ec4553a692c975cd69f424efa45c
+    changeNotes: Categories limited to three.
   - sha: 37896617bb533e6f6d5cb1922c0ff8c5456decaf
     changeNotes: Initial release.  
